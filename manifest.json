@@ -1,0 +1,18 @@
+{
+  "id": "dev.oirnoir.onekoanimation",
+  "name": "Oneko Animation",
+  "description": "Oneko living on your message bar",
+  "author": {
+    "name": "OIRNOIR",
+    "discordID": "720842469024989195",
+    "github": "oirnoir"
+  },
+  "version": "1.0.0",
+  "updater": {
+    "type": "github",
+    "id": "oirnoir/oneko-animation"
+  },
+  "license": "GPL",
+  "type": "replugged-theme",
+  "main": "src/main.css"
+}
