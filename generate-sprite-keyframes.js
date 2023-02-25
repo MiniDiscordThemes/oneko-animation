@@ -1,5 +1,5 @@
 /**
- * This file generates the code in @keyframes run
+ * This file generates the code in @keyframes sprite
  */
 
 let lines = [];
