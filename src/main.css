@@ -424,11 +424,11 @@
 		transform: scaleX(1);
 	}
 	25% {
-		right: calc(100% - 40px);
+		right: calc(100% - 42px);
 		transform: scaleX(1);
 	}
 	25.0001% {
-		right: calc(100% - 40px);
+		right: calc(100% - 42px);
 		transform: scaleX(-1);
 	}
 	50% {
