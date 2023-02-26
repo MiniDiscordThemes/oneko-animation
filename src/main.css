@@ -8,6 +8,7 @@
 	image-rendering: pixelated;
 	background-image: url("https://raw.githubusercontent.com/adryd325/oneko.js/14bab15a755d0e35cd4ae19c931d96d306f99f42/oneko.gif");
 	animation: sprite 45s infinite, motion 45s infinite linear;
+	pointer-events: none;
 }
 
 @keyframes sprite {
