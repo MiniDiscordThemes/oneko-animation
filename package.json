@@ -1,6 +1,6 @@
 {
   "name": "oneko-animation",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Oneko living on your message bar",
   "engines": {
     "node": ">=14.0.0"
