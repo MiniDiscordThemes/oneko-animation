@@ -1,6 +1,6 @@
 {
   "name": "oneko-animation",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Oneko living on your message bar",
   "engines": {
     "node": ">=14.0.0"
@@ -16,10 +16,10 @@
   "author": "OIRNOIR",
   "license": "GPL",
   "devDependencies": {
-    "@parcel/config-default": "^2.9.1",
-    "@parcel/core": "^2.9.1",
-    "@types/node": "^20.2.5",
-    "prettier": "^2.8.8",
+    "@parcel/config-default": "^2.8.3",
+    "@parcel/core": "^2.8.3",
+    "@types/node": "^18.15.11",
+    "prettier": "^2.8.7",
     "replugged": "^4.3.0"
   }
 }
