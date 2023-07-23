@@ -1,6 +1,6 @@
 {
   "name": "oneko-animation",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Oneko living on your message bar",
   "engines": {
     "node": ">=14.0.0"
@@ -20,6 +20,6 @@
     "@parcel/core": "^2.9.2",
     "@types/node": "^18.15.11",
     "prettier": "^2.8.8",
-    "replugged": "^4.4.2"
+    "replugged": "^4.5.1"
   }
 }
