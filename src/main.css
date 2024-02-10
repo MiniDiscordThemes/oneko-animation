@@ -1,3 +1,11 @@
+/**
+ * @name Oneko Animation
+ * @author OIRNOIR
+ * @version 1.0.11
+ * @description Oneko living on your message bar
+ * @source https://github.com/OIRNOIR/oneko-animation
+ */
+
 [class^="channelTextArea"]::before {
 	content: "";
 	width: 32px;
