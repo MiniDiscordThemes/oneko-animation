@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "author": "OIRNOIR",
-  "license": "GPL",
+  "license": "GPL-3.0",
   "devDependencies": {
     "prettier": "^3.2.5",
     "replugged": "^4.7.9"
